@@ -5,3 +5,10 @@ _ReSharper.*
 bin
 obj
 packages
+/EPROM_API/obj/Debug/net7.0/EPROM_API.csproj.CoreCompileInputs.cache
+/EPROM_API/obj/Debug/net7.0/EPROM_API.dll
+/EPROM_API/obj/Debug/net7.0/EPROM_API.pdb
+/EPROM_API/obj/Debug/net7.0/ref/EPROM_API.dll
+/EPROM_API/obj/Debug/net7.0/refint/EPROM_API.dll
+/EPROM_API/bin/Debug/net7.0/EPROM_API.dll
+/EPROM_API/bin/Debug/net7.0/EPROM_API.pdb

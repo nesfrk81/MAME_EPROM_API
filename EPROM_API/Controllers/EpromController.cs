@@ -1,8 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System.Text.RegularExpressions;
 using Octokit;
 using System.Text;
-using System.Runtime.Intrinsics.Arm;
 
 namespace EPROM_API.Controllers
 {
